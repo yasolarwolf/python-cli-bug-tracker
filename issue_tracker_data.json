@@ -1,0 +1,30 @@
+[
+    {
+        "bug_id": 1,
+        "title": "Unhandled 500 Internal Server Error when uploading unsupported avatar format (.tiff)",
+        "priority": "Medium",
+        "status": "Closed",
+        "created_at": "2026-08-04 18:52"
+    },
+    {
+        "bug_id": 2,
+        "title": "Checkout button overlaps the bottom navigation bar on mobile viewports (iPhone SE)",
+        "priority": "High",
+        "status": "New",
+        "created_at": "2026-08-04 18:52"
+    },
+    {
+        "bug_id": 3,
+        "title": "Dark mode styling makes promo code text invisible",
+        "priority": "High",
+        "status": "In Progress",
+        "created_at": "2026-08-04 18:53"
+    },
+    {
+        "bug_id": 4,
+        "title": "Broken user avatar image link after profile picture update",
+        "priority": "Medium",
+        "status": "In Progress",
+        "created_at": "2026-08-04 18:56"
+    }
+]
